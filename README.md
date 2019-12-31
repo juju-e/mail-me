@@ -12,7 +12,7 @@ $ pip install python-fedora
 ##### In my excitement to triy out the features of this package,i tried to `import python-fedora`, another big error, dude, i lost some other 10 minutes checking weither or not python-fedora was installed, man...i should really...really read the docs😔, when i found where was the error i was... well let's stop talking about the unnecessary things and go back to work.
 ###### for the info i should have imported `fedora.client.fas2` and i finnally saw it i the readme and corrected it:) 
 #####
-#### I found out 2 interesting ways in which, when given a username i can return the email corresponding to it.
+#### I found out 2 interesting ways in which, when given a username i can return the email corresponding to a fas id.
 <br>
 
 ### 1. `person_by_username()` function:
