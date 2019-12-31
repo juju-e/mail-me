@@ -1,6 +1,9 @@
 # mail-me
 A python program which, given a fas id as input returns the user's e-mail
 
+```
+$ pip install -r requirements.txt
+```
 ##### Hello,
 ##### In this short readme we're gonna cover up how i implemented this app,
 ##### First things first, i had to go to the python-fedora repo and check out the source code, after 20 minutes of struggling i finnally found the file i was searching for( lol if i had seen sooner that it was written in the readme i would not have lost this much time), The file's name was fas2.py. For more info on python-fedora follow [this](https://github.com/fedora-infra/python-fedora) link.
